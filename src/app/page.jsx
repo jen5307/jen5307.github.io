@@ -15,7 +15,7 @@ export default function Home() {
         <div class="w-full h-auto py-8 flex items-center justify-center gap-2 flex-wrap">
           <a
             href="https://www.linkedin.com/in/justinnull/"
-            class="p-2 rounded-lg flex items-center border border-gray-300 justify-center transition-all duration-500 hover:border-gray-100 hover:bg-gray-100"
+            class="rounded-lg flex items-center justify-center transition-all duration-500 hover:border-gray-100 hover:bg-gray-100"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
